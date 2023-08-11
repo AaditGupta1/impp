@@ -1,0 +1,138 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #333;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.nav-item {
+    padding-left: 2rem;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.nav-link {
+    color: #fff !important;
+    transition: 0.6s ease-in-out;
+}
+
+.nav-link:hover {
+    color: rgba(195, 193, 193, 0.722) !important;
+}
+
+.navbar-nav {
+    display: flex;
+    margin-left: 27%;
+
+}
+
+.navbar-brand{
+    color: #333 ;
+}
+
+.navbar-toggler {
+    background-size: 50%;
+    border: #fff;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+.navbar-toggler:hover {
+    border: #fff;
+}
+
+.green {
+    color: #04ddb2;
+}
+
+.download-btn {
+    background-color: #F11A7B;
+    outline: none;
+    border-radius: 13.5rem;
+    outline: #F11A7B;
+    padding: 0.3 2rem;
+    font-weight: 700;
+    color: #fff;
+    font-size: large;
+    margin-top: 0.2rem;
+    border-color: #F11A7B;
+    margin-right: 3rem;
+    /* margin-left: 25%; */
+    transition: 0.4s ease-in-out;
+}
+
+.download-btn:hover {
+    background-color: #982176;
+    border-color: #982176;
+}
+
+.form-control{
+    border-radius: 90px;
+}
+.title h1 {
+    color: goldenrod;
+    padding: 12rem;
+    padding-top: 9rem;
+    padding-bottom: 12.5rem ;
+}
+
+.title {
+    /* background-image: url(./img/); */
+    background-color: #333;
+    text-align: center;
+}
+
+/* .devakkkkkkkkkkkkk{
+    margin-top: 3rem;
+} */
+
+#objective {
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+.obj-h2{
+    color: goldenrod !important;
+}
+.obj-p{
+    color: rgb(113, 113, 113);
+    margin-top: 1.5rem;
+    font-size: 150%;
+}
+
+.top {
+    margin-top: 4rem;
+}
+
+.obj-p li {
+    color: rgb(113, 113, 113);
+    margin-top: 1rem;
+}
+
+.bruvv {
+    line-height: 2;
+}
+
+.nav-left{
+    margin-left: 4rem;
+}
+
+.grey {
+    color: rgb(113, 113, 113) !important;
+}
+
+.display-team {
+    display: flex;
+}
+
+.display-team img{
+    width: ;
+    height: ;
+    border-radius: ;
+}
